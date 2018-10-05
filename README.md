@@ -10,3 +10,7 @@ Password: admin
 For users
 Username: user@user.com
 Password: user
+
+
+
+Extract the Style folder inside the main folder (Learning Management System Folder).
