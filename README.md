@@ -13,4 +13,4 @@ Password: user
 
 
 
-Extract the Style folder inside the main folder (Learning Management System Folder).
+Extract the Zipped 'Style' folder inside the main folder (Learning Management System Folder).
